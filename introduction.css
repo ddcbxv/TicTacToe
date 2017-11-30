@@ -1,0 +1,89 @@
+
+
+body {
+	text-align: center;
+    background: lightblue;
+    background: linear-gradient(to bottom right, lightblue, lightgrey, lightblue)
+
+}
+
+
+h1 {
+	font-family: 'Papyrus', fantasy;
+	font-size: 50px;
+	text-shadow: 2px 2px 5px lightgreen;
+}
+
+
+h2 {
+	font-family: 'Papyrus', fantasy;
+	font-size: 20px;
+}
+
+h3 {
+	font-family: 'Papyrus', fantasy;
+	font-size: 20px;
+
+}
+
+h4 {
+	font-family: 'Papyrus', fantasy;
+	font-size: 20px;
+	
+	
+}
+
+h5 {
+	font-family: 'Papyrus', fantasy;
+	font-size: 20px;
+	
+
+}
+
+.title{
+	font-family: 'Papyrus', fantasy;
+	font-size: 20px;
+}
+
+.info{
+	font-family: 'Papyrus', fantasy;
+	font-size: 20px;
+}
+
+.info2{
+	font-family: 'Papyrus', fantasy;
+	font-size: 30px;
+}
+
+div {
+    border: 2px solid;
+    padding: 10px;
+    background: lightgreen;
+    border-bottom-left-radius: 2em;
+    border-bottom-right-radius: 2em;
+    background: linear-gradient(to bottom right, lightgreen, lightgrey, lightgreen)
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
